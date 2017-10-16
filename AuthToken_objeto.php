@@ -1,6 +1,5 @@
 <?php
-
-include_once __DIR__ . "/../config.php";
+// include AuthToken or config autoload
 
 class AuthToken_objeto extends AuthToken {
 	
