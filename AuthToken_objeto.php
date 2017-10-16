@@ -2,7 +2,7 @@
 
 include_once __DIR__ . "/../config.php";
 
-class AuthToken_avaliacao extends AuthToken {
+class AuthToken_objeto extends AuthToken {
 	
 	protected $token = "1YZT15ERV3M95PR";
 	protected $prazoToken = "1"; //hora
