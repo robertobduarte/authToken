@@ -3,7 +3,7 @@
 abstract class AuthToken{
 
 	protected $token;
-	protected $prazoToken = 1; //hour
+	protected $prazoToken = 1; //minutos
 	protected $dadosParam;
 	protected $params = array();
 	protected $retorno = array();
